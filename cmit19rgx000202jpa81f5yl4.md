@@ -2,7 +2,7 @@
 title: "📖 Is Knowledge from AI actual knowledge?"
 seoTitle: "Is Knowledge from AI Actual Knowledge? A Deep Dive into Learning Befor"
 seoDescription: "A personal reflection on how AI has transformed problem-solving and what skills we risk losing as AI becomes part of everyday learning."
-datePublished: Fri Dec 05 2025 15:42:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-05T15:42:26.385Z
 cuid: cmit19rgx000202jpa81f5yl4
 slug: is-knowledge-from-ai-actual-knowledge
 tags: ai, learning, problem-solving, knowledge
